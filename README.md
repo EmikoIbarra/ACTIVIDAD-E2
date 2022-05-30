@@ -30,9 +30,14 @@ Este progrma en C++ nos permite realizar la suma de varios numeros y tiene como 
 El programa permite calcular la edad exacta de una persona, mediante el ingreso de la fecha de nacimiento del usuario (dd/mm/yy) y el ingreso de la fecha actual (dd/mm/yy).
 # FUNCIONALIDAD
 # IbarraEmiko-Compara.cpp
-En este programa vamos a usar variable de tipo decimal (float).
-El programa nos permite ingresar las dos cantidades que deseamos comparar, las cuales van a estar almacenadas en ei_a y ei_b respectivamente.
-Una vez ingresadas las variables, utilizaremos la función if para poder hacer una comparación lógica entre las cantidades ingresadas.
+float ei_a, ei_b;
+	cout<<"Ingrese un número: "<<endl;
+	
+	cin>>ei_a;
+	
+	cout<<"Ingrese otro numero: "<<endl;
+	
+	cin>>ei_b;
 # IbarraEmiko-CuentaMoneda.cpp
 int ei_a, ei_b= 0 , ei_b1= 0 , ei_b2= 0 ;
 
@@ -42,9 +47,9 @@ float ei_x, ei_m= 0 , ei_m1= 0 , ei_m2= 0 ;
 	
 	cin>>ei_a;
 	
-		cout<< " Ingrese el valor de las monedas (0.10,0.25): " ;
+	cout<< " Ingrese el valor de las monedas (0.10,0.25): " ;
 		
-		cin>>ei_x;
+	cin>>ei_x;
 # IbarraEmiko-PuntoVenta.cpp
 int ei_b=0 , ei_e;
 
