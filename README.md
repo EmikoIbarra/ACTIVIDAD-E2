@@ -1,5 +1,5 @@
 # ACTIVIDAD-E2
-#Título: Programas en c++ de Ibarra Emiko
+##Título: Programas en c++ de Ibarra Emiko
 #Información del autor
 #AUTOR:
 Ibarra Herrera Emiko Janeth 
