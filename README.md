@@ -1,14 +1,11 @@
 # PROGRAMAS EN C++ DE IBARRA EMIKO
 # INFORMACION DEL AUTOR
-# Autor: 
-Ibarra Herrera Emiko Janeth
-# Correo:
-emiko.ibarra.herrera@utelvt.edu.ec
-## Enlace del video: 
-https://youtu.be/u6-lx7w2YIc
+Autor: Ibarra Herrera Emiko Janeth
+Correo: emiko.ibarra.herrera@utelvt.edu.ec
+Enlace del video: https://youtu.be/u6-lx7w2YIc
 # PROGRAMAS
 IbarraEmiko-Compara.cpp
-
+ 
 IbarraEmiko-CuentaMoneda.cpp
 
 IbarraEmiko-PuntoVenta.cpp
