@@ -8,10 +8,15 @@ emiko.ibarra.herrera@utelvt.edu.ec
 https://youtu.be/u6-lx7w2YIc
 # PROGRAMAS
 IbarraEmiko-Compara.cpp
+
 IbarraEmiko-CuentaMoneda.cpp
+
 IbarraEmiko-PuntoVenta.cpp
+
 IbarraEmiko-SumaN.cpp
+
 IbarraEmiko-LaEdad.cpp
+
 # DESCRIPCION DE LOS PROGRAMAS
 # IbarraEmiko-Compara.cpp
 El programa permite comparar dos numeros ingresados de manera manual por el usuario, y determinar cuando estos numeros son iguales o cuando uno de ellos es mayor al otro.
@@ -81,9 +86,14 @@ Descargar e instalar los programas
 Para poder descargar el repositorio en el que se encuentran los programas descritos en este post, tienes que realizar el siguiente proceso:
 # Clonar el repositorio
 Para clonar el repositorio en tu entorno de trabajo, debes usar el comando git clone, seguido de la dirección del repositorio en donde se encuentra el trabajo.
-git clone 
+
+git clone https://github.com/EmikoIbarra/ACTIVIDAD-E2.git 
+
 Una vez clonado en tu equipo, tienes que usar el comando git pull para poder descargar cualquier cambio que se haya podido realizar en el repositorio.
+
 Usando el comando ls de termux, puedes verificar que se encuentran todos los archivos que acabas de descargar.
+
 En caso de que necesites realizar y subir cambios en losp programas, recuerda usar los comandos git status (para ver que es lo que se somete a cambios), git add (para añadir esos cambios a la nube), git commit (para comentar esos cambios) y git push (para poder subir a github los cambios que introduciste).
-Compilar los programas
+
+# Compilar los programas
 En caso de que desees compilar y correr los archivos .cpp, debes usar el comando g++ nombre_del_programa.cpp -o nombre_del_programa.
