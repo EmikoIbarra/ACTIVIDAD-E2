@@ -31,6 +31,7 @@ El programa permite calcular la edad exacta de una persona, mediante el ingreso 
 # FUNCIONALIDAD
 # IbarraEmiko-Compara.cpp
 float ei_a, ei_b;
+
 	cout<<"Ingrese un número: "<<endl;
 	
 	cin>>ei_a;
